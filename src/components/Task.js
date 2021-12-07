@@ -26,7 +26,6 @@ function Task(props) {
                     <div>
                         <div className="font-bold">{props.title}</div>
                         {props.task}
-                        {console.log("teeeest")}
                     </div>
 
                 </div>
